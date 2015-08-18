@@ -1,6 +1,6 @@
 # Ascii Art Reverse
 
-This is package is essentially a rainbow being
+This package is essentially a rainbow being
 farted from the aft portion of a unicorn. It's pure magic.
 
 # Install
